@@ -1,0 +1,9 @@
+.carousel-image{
+    height: 400px;
+    width: 800px;
+}
+
+.carousel-container{
+    justify-content: center;
+    align-items: center;
+}
